@@ -1,0 +1,62 @@
+
+{
+  "hero": {
+    "greeting": "DaReal_TBC",
+    "subtitle": "welcome to my portfolio",
+    "bio": "not taken :sad:",
+    "profileImage": "https://example.com/image.png",
+    "links": [
+      {
+        "text": "Server →",
+        "url": "discord.gg/kbU8QJK9sD"
+      }
+    ]
+  },
+
+  "whatIDo": [
+    {
+      "name": "dev",
+      "value": "nothing"
+    },
+    {
+      "name": "protect",
+      "value": "i protect some games <3"
+    },
+    {
+      "name": "play",
+      "value": "play my fav games"
+    }
+  ],
+
+  "learning": [
+    {
+      "name": "c#",
+      "value": "coding unity :money:"
+    },
+    {
+      "name": "c++",
+      "value": "android studio / idot"
+    },
+    {
+      "name": "python",
+      "value": "backend"
+    },
+    {
+      "name": "javascript",
+      "value": "frida"
+    }
+  ],
+
+  "peopleTitle": "people i luv most 💖💖",
+
+  "people": [
+    "cz",
+    "nawly",
+    "traitor",
+    "mint",
+    "imlovina",
+    "lms",
+    "luca",
+    "kar"
+  ]
+}
