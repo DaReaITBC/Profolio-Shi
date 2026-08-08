@@ -1,6 +1,6 @@
 {
   "hero": {
-    "greeting": "DaReal TBC",
+    "greeting": "DaReal_TBC",
     "subtitle": "Welcome to my portfolio",
     "bio": "Official Owner Of Straight Blue Xenon Third Venom                    Dont bother trynna find my data leaks nor cookies on ur osints.",
     "profileImage": "TBCmonke.jpg",
@@ -11,7 +11,6 @@
       }
     ]
   },
-
   "whatIDo": [
     {
       "name": "Unity Developer",
@@ -26,7 +25,6 @@
       "value": "Trying to figure out how to speak coding languages lol"
     }
   ],
-
   "learning": [
     {
       "name": "Python",
@@ -49,9 +47,7 @@
       "value": "To Build Sites And Other Stuff"
     }
   ],
-
   "peopleTitle": "W people",
-
   "people": [
     "Mitzin",
     "Djtysean K4",
@@ -62,7 +58,6 @@
     "Tequila / White",
     "Catwolf / Noah"
   ],
-
   "playlist": [
     {
       "title": "when the world end (prod. jxmmyplz)",
@@ -100,7 +95,7 @@
       "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song7.mp3"
     },
     {
-      "title": "Do Ya Like x Resonance ",
+      "title": "Do Ya Like x Resonance",
       "artist": "UNKNOWN ARTIST",
       "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song8.mp3"
     }
