@@ -1,83 +1,87 @@
 {
   "hero": {
-    "greeting": "hey there!",
-    "subtitle": "welcome to my portfolio",
-    "bio": "not taken :sad:",
+    "greeting": "DaReal_TBC",
+    "subtitle": "Welcome to my portfolio",
+    "bio": "Official Owner Of Straight Blue Xenon Third Venom                    Dont bother trynna find my data leaks nor cookies on ur osints.",
     "profileImage": "TBCmonke.jpg",
     "links": [
       {
-        "text": "github →",
-        "url": "https://github.com/DaReaITBC"
+        "text": "Discord Serv →",
+        "url": "https://discord.gg/kbU8QJK9sD"
       }
     ]
   },
 
   "whatIDo": [
     {
-      "name": "dev",
-      "value": "nothing"
+      "name": "Unity Developer",
+      "value": "Idk know as much and i lowk quit"
     },
     {
-      "name": "protect",
-      "value": "i protect some games <3"
+      "name": "Hang out and touch grass irl",
+      "value": "I like hanging outside with my hgs and hbs"
     },
     {
-      "name": "play",
-      "value": "play my fav games"
+      "name": "Spending time figuring code",
+      "value": "Trying to figure out how to speak coding languages lol"
     }
   ],
 
   "learning": [
     {
-      "name": "c#",
-      "value": "coding unity"
+      "name": "Python",
+      "value": "Ik a normal amout of python but imma learn advanced python coding"
     },
     {
-      "name": "c++",
-      "value": "android studio / idot"
+      "name": "C#",
+      "value": "For unity game deving (Idk shi abt it yet)"
     },
     {
-      "name": "python",
-      "value": "backend"
+      "name": "Javascript",
+      "value": "For websitess and frida ect"
     },
     {
-      "name": "javascript",
-      "value": "frida"
+      "name": "JSON",
+      "value": "I can read and kinda write JSON due to animal company modding and other modding related things"
+    },
+    {
+      "name": "Html",
+      "value": "To Build Sites And Other Stuff"
     }
   ],
 
-  "peopleTitle": "people i luv most 💖💖",
+  "peopleTitle": "W people",
 
   "people": [
-    "cz",
-    "nawly",
-    "traitor",
-    "mint",
-    "imlovina",
-    "lms",
-    "luca",
-    "kar"
+    "Mitzin",
+    "Djtysean K4",
+    "Seba (old ash friend lol)",
+    "angelzz.fr1",
+    "chihuahuavr",
+    "Clinxy",
+    "Tequila / White",
+    "Catwolf / Noah"
   ],
 
   "playlist": [
     {
-      "title": "song one",
-      "artist": "artist one",
+      "title": "when the world end (prod. jxmmyplz)",
+      "artist": "lil darkie",
       "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song1.mp3"
     },
     {
-      "title": "song two",
-      "artist": "artist two",
+      "title": "CUTE JUMPSTYLE (Slowed)",
+      "artist": "UNKNOWN ARTIST",
       "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song2.mp3"
     },
     {
-      "title": "song three",
-      "artist": "artist three",
+      "title": "Free Brick (Freestyle)",
+      "artist": "VonOff1700",
       "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song3.mp3"
     },
     {
-      "title": "song four",
-      "artist": "artist four",
+      "title": "Blue Bands (Official Music Video)",
+      "artist": "Weiland",
       "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song4.mp3"
     }
   ]
