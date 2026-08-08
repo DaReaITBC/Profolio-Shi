@@ -85,4 +85,91 @@
       "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song4.mp3"
     }
   ]
+}{
+  "hero": {
+    "greeting": "DaReal_TBC",
+    "subtitle": "Welcome to my portfolio",
+    "bio": "Official Owner Of Straight Blue Xenon Third Venom                    Dont bother trynna find my data leaks nor cookies on ur osints.",
+    "profileImage": "TBCmonke.jpg",
+    "links": [
+      {
+        "text": "Discord Serv →",
+        "url": "https://discord.gg/kbU8QJK9sD"
+      }
+    ]
+  },
+
+  "whatIDo": [
+    {
+      "name": "Unity Developer",
+      "value": "Idk know as much and i lowk quit"
+    },
+    {
+      "name": "Hang out and touch grass irl",
+      "value": "I like hanging outside with my hgs and hbs"
+    },
+    {
+      "name": "Spending time figuring code",
+      "value": "Trying to figure out how to speak coding languages lol"
+    }
+  ],
+
+  "learning": [
+    {
+      "name": "Python",
+      "value": "Ik a normal amout of python but imma learn advanced python coding"
+    },
+    {
+      "name": "C#",
+      "value": "For unity game deving (Idk shi abt it yet)"
+    },
+    {
+      "name": "Javascript",
+      "value": "For websitess and frida ect"
+    },
+    {
+      "name": "JSON",
+      "value": "I can read and kinda write JSON due to animal company modding and other modding related things"
+    },
+    {
+      "name": "Html",
+      "value": "To Build Sites And Other Stuff"
+    }
+  ],
+
+  "peopleTitle": "W people",
+
+  "people": [
+    "Mitzin",
+    "Djtysean K4",
+    "Seba (old ash friend lol)",
+    "angelzz.fr1",
+    "chihuahuavr",
+    "Clinxy",
+    "Tequila / White",
+    "Catwolf / Noah"
+  ],
+
+  "playlist": [
+    {
+      "title": "when the world end (prod. jxmmyplz)",
+      "artist": "lil darkie",
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song1.mp3"
+    },
+    {
+      "title": "CUTE JUMPSTYLE (Slowed)",
+      "artist": "UNKNOWN ARTIST",
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song2.mp3"
+    },
+    {
+      "title": "Free Brick (Freestyle)",
+      "artist": "VonOff1700",
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song3.mp3"
+    },
+    {
+      "title": "Blue Bands (Official Music Video)",
+      "artist": "Weiland",
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song4.mp3"
+    }
+  ]
 }
