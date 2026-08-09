@@ -63,42 +63,58 @@
     {
       "title": "When the world end (prod. jxmmyplz)",
       "artist": "lil darkie",
-      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song1.mp3"
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/Song1.mp3"
     },
     {
       "title": "CUTE JUMPSTYLE (Slowed)",
       "artist": "UNKNOWN ARTIST",
-      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song2.mp3"
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/Song2.mp3"
     },
     {
       "title": "Free Brick (Freestyle)",
       "artist": "VonOff1700",
-      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song3.mp3"
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/Song3.mp3"
     },
     {
       "title": "Blue Bands (Official Music Video)",
       "artist": "Weiland",
-      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song4.mp3"
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/Song4.mp3"
     },
     {
       "title": "Passionfruit",
       "artist": "Drake",
-      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song5.mp3"
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/Song5.mp3"
     },
     {
       "title": "Cigarettes out the Window",
       "artist": "TV Girl",
-      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song6.mp3"
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/Song6.mp3"
     },
     {
       "title": "Blue Hair",
       "artist": "TV Girl",
-      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song7.mp3"
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/Song7.mp3"
     },
     {
       "title": "Do Ya Like x Resonance",
       "artist": "UNKNOWN ARTIST",
-      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/song8.mp3"
+      "url": "https://raw.githubusercontent.com/DaReaITBC/Profolio-Shi/main/Song8.mp3"
+    }
+  ],
+  "gamesCreated": [
+    {
+      "name": "Game Name",
+      "description": "Description of the game.",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "groupsCreated": [
+    {
+      "name": "Group Name",
+      "description": "Description of the group.",
+      "image": "",
+      "link": ""
     }
   ]
 }
